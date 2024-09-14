@@ -1,6 +1,6 @@
 # Feature-Detection
 
-This is the second assignmnet of my computer vision courese.  The tasks of this assignment are to perform RGB to grayscale conversion, 1D smoothing using a 1D horizontal Gaussian filter, 2D smoothing using 1D convolutions, and Harris corner detection on the privided code base. 
+This is the second assignmnet of my computer vision courese.  The tasks of this assignment are to perform RGB to grayscale conversion, 1D smoothing using a 1D horizontal Gaussian filter, 2D smoothing using 1D convolutions, and Harris corner detection on the provided code base. 
 
 ## To detect corners, I have done the following features:
 
