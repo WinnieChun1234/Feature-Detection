@@ -3,7 +3,7 @@
 This is the second assignmnet of my computer vision course in the university.  The assignment comes with partially completed Python programs and the tasks are to perform RGB to grayscale conversion, 1D smoothing using a 1D horizontal Gaussian filter, 2D smoothing using 1D convolutions, and Harris corner detection on image.
 
 
-### To detect corners, I have done the following features:
+### Implementation Workflow (My Tasks)
 
 1. Use the formula for the Y-channel of the YIQ model in performing the color-to-grayscale image conversion.
 This step is done by using np.dot() on the RGB-channel vector and the vector of [0.299,0.587,0.114].
